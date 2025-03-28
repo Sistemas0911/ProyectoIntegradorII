@@ -1,0 +1,47 @@
+1. Cliente (Usuario Final)
+>>>>>Seguimiento del Pedido
+Ver estado actual del envío (En preparación, en camino, entregado).
+Visualizar ubicación en tiempo real (Mapa con ruta del repartidor).
+Recibir notificaciones de cambios de estado (Push o SMS).
+Ver historial de pedidos anteriores.
+Consultar detalles del envío (N° de guía, repartidor, fecha estimada).
+
+>>>>>Interacción con el Repartidor
+Contactar al repartidor (Llamada o chat dentro de la app).
+Dejar instrucciones especiales (Ej: "Dejar en portería").
+Calificar al repartidor (Sistema de reseñas).
+
+>>>>>Gestión de Entregas
+Reportar problema con el envío (Ej: Paquete dañado, no recibido).
+Solicitar reprogramación de entrega.
+Autorizar entrega sin firma (Confirmación digital).
+
+2. Repartidor (Delivery Driver)
+>>>>>Gestión de Entregas
+Iniciar sesión en la app de repartidor.
+Ver lista de pedidos asignados.
+Actualizar estado del envío (Ej: "Recogido", "En camino").
+Marcar entrega como completada (Con foto/firma digital).
+Notificar problemas (Ej: Cliente no responde, dirección incorrecta).
+
+>>>>>Navegación y Ruta
+Usar GPS para optimizar rutas.
+Ver detalles del cliente (Dirección, teléfono, notas).
+
+>>>>>Comunicación
+Contactar al cliente (Llamada/chat desde la app).
+Recibir alertas de cambios en la entrega (Ej: Nueva dirección).
+
+3. Administrador (Gestor de Logística)
+>>>>>Gestión de Envíos
+Asignar pedidos a repartidores.
+Modificar estado manualmente (En caso de errores).
+Generar reportes de entregas (Éxito/fallos, tiempos).
+
+>>>>>Soporte
+Resolver incidencias reportadas por clientes/repartidores.
+Gestionar devoluciones/reemplazos.
+
+4. Sistema (Automatizado)
+Notificar al cliente cuando el repartidor está cerca.
+Actualizar la ubicación GPS del repartidor en tiempo real.
