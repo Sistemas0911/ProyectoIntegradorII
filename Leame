@@ -1,0 +1,66 @@
+1. Cliente (Usuario Registrado o Invitado)
+>>>>Gestión de Cuenta
+Registrarse en la tienda (Crear cuenta).
+Iniciar sesión (Autenticarse).
+Recuperar contraseña (Solicitar restablecimiento).
+Editar perfil (Actualizar datos personales).
+Cerrar sesión.
+
+>>>>Búsqueda y Navegación
+Buscar productos (Por categoría, nombre, filtros).
+Ver catálogo de productos (Lista paginada).
+Ver detalles de un producto (Descripción, precio, imágenes, reseñas).
+Filtrar productos (Por precio, marca, etc.).
+
+>>>>Gestión del Carrito de Compras
+Agregar producto al carrito.
+Eliminar producto del carrito.
+Modificar cantidad de un producto en el carrito.
+Ver resumen del carrito (Subtotal, impuestos, envío).
+
+>>>>Proceso de Compra
+Iniciar checkout (Proceder al pago).
+Seleccionar método de envío.
+Ingresar dirección de entrega.
+Seleccionar método de pago (Tarjeta, PayPal, transferencia).
+Confirmar compra (Finalizar pedido).
+Ver historial de pedidos.
+Cancelar pedido (Si está pendiente).
+
+>>>>Reseñas y Comentarios
+Dejar una reseña de un producto.
+Ver reseñas de otros usuarios.
+
+>>>>Soporte
+Contactar al servicio al cliente (Formulario de contacto).
+
+2. Administrador
+>>>>Gestión de Productos
+Agregar nuevo producto (Nombre, descripción, precio, imágenes).
+Editar producto existente.
+Eliminar producto (O marcarlo como no disponible).
+Gestionar categorías (Crear, editar, eliminar).
+
+>>>>Gestión de Pedidos
+Ver listado de pedidos.
+Actualizar estado de un pedido (En proceso, enviado, entregado).
+Cancelar pedido (Por solicitud del cliente o incidencias).
+
+>>>>Gestión de Usuarios
+Bloquear/Desbloquear usuario.
+Ver listado de clientes registrados.
+
+>>>>Reportes y Análisis
+Generar reporte de ventas (Por período, categoría).
+Ver métricas de rendimiento (Productos más vendidos, ingresos).
+Configuración de la Tienda
+Gestionar métodos de pago (Habilitar/deshabilitar opciones).
+Configurar costos de envío.
+Gestionar promociones y descuentos.
+
+3. Sistema (Automatizados)
+Enviar correo de confirmación de pedido.
+Notificar al cliente sobre el estado del envío.
+Actualizar inventario al confirmarse una compra.
+Generar factura electrónica (PDF).
+Aplicar descuentos automáticos (Cupones, promociones).
